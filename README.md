@@ -1,6 +1,6 @@
 # TicTacToe
 
-##The game has been implemented using the following algorithms and you can also check the time each algorithm takes to compute a move in the console.
+## The game has been implemented using the following algorithms and you can also check the time each algorithm takes to compute a move in the console.
 
 ###		Basic Minimax
 
